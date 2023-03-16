@@ -1,9 +1,8 @@
-import React from 'react';
 
 function App() {
   return (
    <div>
-    h1.text
+     <h1 className="text-6xl">hello world</h1>
    </div>
   );
 }
